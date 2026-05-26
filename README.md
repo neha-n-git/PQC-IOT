@@ -14,11 +14,12 @@ understanding the algorithms, the constraints, and where the open problems are.
 
 ## Structure
 pqc-iot-research/
-├── notes/
-│   ├── domain-overview.md       ← core concepts, jargon, algorithms
-│   └── paper-summaries/         ← one file per paper read
-├── gaps.md                      ← research gaps I'm tracking
-└── resources.md                 ← useful papers, links, tools
+    ├── notes/
+    │   ├── domain-overview.md       ← core concepts, jargon, algorithms
+    │   └── paper-summaries/         ← one file per paper read
+    ├── gaps.md                      ← research gaps I'm tracking
+    └── resources.md                 ← useful papers, links, tools
+
 
 ## Papers Read So Far
 
