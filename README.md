@@ -22,21 +22,3 @@ pqc-iot-research/
 └── resources.md                 ← useful papers, links, tools
 ```
 
-
-## Papers Read So Far
-
-| # | Title | Authors | Year | Key Takeaway |
-|---|-------|---------|------|--------------|
-| 1 | Fortifying Future IoT Security: A Comprehensive Review on Lightweight PQC | Mahdi, Abdullah | 2025 | Survey of lightweight PQC; key gaps: energy efficiency, key size, scalability |
-
-## Key Research Gaps (so far)
-
-- Resource constraints on IoT devices
-- Energy efficiency of PQC algorithms
-- Key size and bandwidth limitations
-- Scalability across large IoT networks
-- Hardware acceleration for PQC
-
-## Status
-
-Literature review in progress 
